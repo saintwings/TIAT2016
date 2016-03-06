@@ -1,0 +1,13 @@
+keyword1 = 0
+keyword2 = 1
+[section1]
+keyword3 = 2
+keyword4 = 3
+[section2]
+keyword6 = 5
+keyword5 = 4
+[[sub-section]]
+keyword7 = 6
+[section3]
+keyword 8 = 7, 8, 9
+keyword 9 = 10, 11, 12
